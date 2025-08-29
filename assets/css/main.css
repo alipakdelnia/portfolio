@@ -608,6 +608,19 @@ section,
   color: var(--accent-color);
 }
 
+/* Social Links Colors */
+.social-links a.github {
+  background: #333333;
+}
+
+.social-links a.linkedin {
+  background: #007bb5;
+}
+
+.social-links a.globe {
+  background: #17a2b8;
+}
+
 @media (max-width: 768px) {
   .hero h2 {
     font-size: 32px;
